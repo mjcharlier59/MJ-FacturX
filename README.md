@@ -1,5 +1,6 @@
 # MJ-FacturX
-Module Access/VBA pour générer des factures Factur‑X (EN16931), CIUS‑FR, PDF/A‑3, validation Mustang, journal des ventes, intégration PME/artisans.  
+
+Module Access/VBA qui récupère des factures venant de logiciels spécifiques (Access/Sql/Excel/..) et génère des factures Factur-X (EN16931), CIUS-FR, PDF/A-3, validation Mustang, journal des ventes, intégration PME/artisans — connecté à Chorus Pro (B2G) et aux PDP/Peppol (B2B) pour la réforme de facturation électronique. 
 
 # MJ‑FacturX — Architecture Technique (EN16931 + CIUS‑FR + PDF/A‑3)
 
